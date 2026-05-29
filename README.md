@@ -1,2 +1,2 @@
 # Data-Science-Exam
-My data for the data science exam
+My notebooks for the Data Science exam 
